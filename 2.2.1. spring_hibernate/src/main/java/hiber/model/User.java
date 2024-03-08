@@ -12,7 +12,7 @@ public class User {
 
    @Column(name = "name")
    private String firstName;
-
+//hgjg
    @Column(name = "last_name")
    private String lastName;
 
